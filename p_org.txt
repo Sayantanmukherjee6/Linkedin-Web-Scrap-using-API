@@ -1,0 +1,236 @@
+(lp0
+S'Chris Mason - Director of Corporate Communications AAR CORP'
+p1
+aS'Chris Mason - Director of Corporate Communications AAR CORP'
+p2
+aS'Chris Mason - Director of Corporate Communications AAR CORP'
+p3
+aNaNaNaNaNaS'David Storch - Chairman and CEO AAR CORP'
+p4
+aNaS'John Bowman - Director of IR AAR CORP'
+p5
+aNaNaNaS'Michael J. Sharp - Chief Accounting Officer  Vice President and Controller AAR CORP'
+p6
+aS'Michael J. Sharp - Chief Accounting Officer  Vice President and Controller AAR CORP'
+p7
+aS'Michael J. Sharp - Chief Financial Officer  Chief Accounting Officer  Vice President  Controller and Treasurer AAR CORP'
+p8
+aS'Michael Sharp AAR CORP'
+p9
+aS'Rick Poulton - CFO AAR CORP'
+p10
+aNaS'Tim Romenesko - President and COO AAR CORP'
+p11
+aNaNaS'Bob Switz - CEO ADC TELECOMMUNICATIONS INC'
+p12
+aS'Bob Switz - Chairman and CEO ADC TELECOMMUNICATIONS INC'
+p13
+aS'Gokul Hemmady - CFO ADC TELECOMMUNICATIONS INC'
+p14
+aS'Gokul Hemmady  Chief Financial Officer and Vice President  ADC ADC TELECOMMUNICATIONS INC'
+p15
+aS'Gokul Hemmady  Chief Financial Officer and Vice President  ADC ADC TELECOMMUNICATIONS INC'
+p16
+aS'Gokul V. Hemmady - Chief Financial Officer  Vice President ADC TELECOMMUNICATIONS INC'
+p17
+aNaS'James G. Mathews - VP and CFO ADC TELECOMMUNICATIONS INC'
+p18
+aNaNaNaNaNaS'Jim Mathews - CFO ADC TELECOMMUNICATIONS INC'
+p19
+aNaNaS'Mark Borman - Investor Relations ADC TELECOMMUNICATIONS INC'
+p20
+aS'Mark Borman - Vice President  Investor Relations ADC TELECOMMUNICATIONS INC'
+p21
+aS'Mark Borman  Vice President  Treasurer and Investor Relations  ADC ADC TELECOMMUNICATIONS INC'
+p22
+aS'Mark Borman  Vice President  Treasurer and Investor Relations  ADC ADC TELECOMMUNICATIONS INC'
+p23
+aS'Mark Borman - VP  IR and Treasurer ADC TELECOMMUNICATIONS INC'
+p24
+aNaS'Mark P. Borman - VP of IR and Treasurer ADC TELECOMMUNICATIONS INC'
+p25
+aNaNaS'Ralph Faison  Chief Executive Officer and President  Andrew ADC TELECOMMUNICATIONS INC'
+p26
+aS'Robert E. Switz - President  Chief Executive Officer  Director ADC TELECOMMUNICATIONS INC'
+p27
+aS'Robert E. Switz - President  Chief Executive Officer  Director ADC TELECOMMUNICATIONS INC'
+p28
+aS'Robert E. Switz - President and CEO ADC TELECOMMUNICATIONS INC'
+p29
+aNaNaNaNaNaS'Robert Switz  Chief Executive Officer and President  ADC ADC TELECOMMUNICATIONS INC'
+p30
+aS'Robert Switz  Chief Executive Officer and President  ADC ADC TELECOMMUNICATIONS INC'
+p31
+aS'Benton L. Cook - Interim Chief Financial Officer and Corporate Controller CECO ENVIRONMENTAL CORP'
+p32
+aS'Benton L. Cook - Interim Chief Financial Officer and Corporate Controller CECO ENVIRONMENTAL CORP'
+p33
+aS'Benton L. Cook - Interim Chief Financial Officer and Corporate Controller CECO ENVIRONMENTAL CORP'
+p34
+aS'Ed Prajzner - Chief Financial Officer CECO ENVIRONMENTAL CORP'
+p35
+aS'Edward J. Prajzner - Chief Financial Officer and Chief Accounting Officer CECO ENVIRONMENTAL CORP'
+p36
+aS'Jeff Lang - President and Chief Executive Officer CECO ENVIRONMENTAL CORP'
+p37
+aS'Jeffrey Lang - Chief Executive Officer  President and Director CECO ENVIRONMENTAL CORP'
+p38
+aS'Jeffrey Lang - Chief Executive Officer  President and Director CECO ENVIRONMENTAL CORP'
+p39
+aS'Jeffrey Lang - Chief Executive Officer  President and Director CECO ENVIRONMENTAL CORP'
+p40
+aS'Jeffrey Lang - Chief Executive Officer  President and Director CECO ENVIRONMENTAL CORP'
+p41
+aS'Jeffrey Lang - Chief Executive Officer  President and Director CECO ENVIRONMENTAL CORP'
+p42
+aNaNaS'Shawn Severson CECO ENVIRONMENTAL CORP'
+p43
+aS'Shawn Severson CECO ENVIRONMENTAL CORP'
+p44
+aNaS'John Gilbertson - CEO AVX CORP'
+p45
+aS'John Gilbertson - CEO and President AVX CORP'
+p46
+aS'John Gilbertson - CEO and President AVX CORP'
+p47
+aS'John Gilbertson \xe2\x80\x93 CEO and President AVX CORP'
+p48
+aS'John Gilbertson - Chief Executive Officer AVX CORP'
+p49
+aS'John Gilbertson - Chief Executive Officer AVX CORP'
+p50
+aS'John Gilbertson - Chief Executive Officer AVX CORP'
+p51
+aS'John Gilbertson - Chief Executive Officer and President AVX CORP'
+p52
+aS'John Gilbertson - President and CEO AVX CORP'
+p53
+aS'John Gilbertson - President and CEO AVX CORP'
+p54
+aNaNaS'John Lawing - President and Chief Operating Officer AVX CORP'
+p55
+aS'John Lawing - President and Chief Operating Officer AVX CORP'
+p56
+aS'John Lawing - President and COO AVX CORP'
+p57
+aS'John Lawing - VP  Advanced Products AVX CORP'
+p58
+aS'John Lawing - VP of Advanced Products AVX CORP'
+p59
+aS'John S. Gilbertson - CEO AVX CORP'
+p60
+aS'John S. Gilbertson - CEO and President AVX CORP'
+p61
+aS'John S. Gilbertson - CEO and President AVX CORP'
+p62
+aS'John S. Gilbertson - President and CEO AVX CORP'
+p63
+aS'John S. Gilbertson - President and CEO AVX CORP'
+p64
+aS'Kurt Cummings - CFO AVX CORP'
+p65
+aS'Kurt Cummings - CFO AVX CORP'
+p66
+aS'Kurt Cummings - CFO AVX CORP'
+p67
+aS'Kurt Cummings - CFO AVX CORP'
+p68
+aS'Kurt Cummings \xe2\x80\x93 CFO AVX CORP'
+p69
+aS'Kurt Cummings - Chief Financial Officer AVX CORP'
+p70
+aS'Kurt Cummings - Chief Financial Officer AVX CORP'
+p71
+aS'Kurt Cummings - Chief Financial Officer AVX CORP'
+p72
+aS'Kurt Cummings - Chief Financial Officer AVX CORP'
+p73
+aNaNaNaS'Kurt Cummings - VP and CFO AVX CORP'
+p74
+aNaNaNaNaNaNaNaS'Becky Hickman - Director  IR PINNACLE WEST CAPITAL CORP'
+p75
+aS'Becky Hickman - Director  IR PINNACLE WEST CAPITAL CORP'
+p76
+aNaNaNaS'Bill Post - Chairman and Chief Executive Officer PINNACLE WEST CAPITAL CORP'
+p77
+aS'Bill Post - Chairman and Chief Executive Officer PINNACLE WEST CAPITAL CORP'
+p78
+aS'Don Brandt - Chairman and CEO PINNACLE WEST CAPITAL CORP'
+p79
+aS'Don Brandt - Executive Vice President and Chief FinancialOfficer PINNACLE WEST CAPITAL CORP'
+p80
+aNaNaNaNaNaNaS'Don Brandt Chairman and CEO PINNACLE WEST CAPITAL CORP'
+p81
+aS'Don Brandt Chairman and CEO PINNACLE WEST CAPITAL CORP'
+p82
+aNaNaNaNaNaNaS'Donald Brandt - Chairman of the Board  President and Chief Executive Officer PINNACLE WEST CAPITAL CORP'
+p83
+aNaNaNaS'Donald E. Brand - President  COO CEO of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p84
+aS'Donald E. Brandt - Chairman  Chief Executive Officer  President  Chairman of Arizona Public Service Company and Chief Executive Officer of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p85
+aS'Donald E. Brandt - Chairman  Chief Executive Officer  President  Chairman of Arizona Public Service Company and Chief Executive Officer of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p86
+aS'Donald E. Brandt - Chairman  Chief Executive Officer  President  Chairman of Arizona Public Service Company and Chief Executive Officer of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p87
+aS'Donald E. Brandt - Chairman  Chief Executive Officer  President  Chairman of Arizona Public Service Company and Chief Executive Officer of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p88
+aS'Donald E. Brandt - Chairman  Chief Executive Officer  President  Chairman of Arizona Public Service Company and Chief Executive Officer of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p89
+aS'Donald E. Brandt - Chairman  President and Chief Executive Officer PINNACLE WEST CAPITAL CORP'
+p90
+aS'Donald E. Brandt - President and CFO  Arizona Public Service Company EVP and CFO  Pinnacle West Capital Corporation PINNACLE WEST CAPITAL CORP'
+p91
+aS'Donald E. Brandt - President and COO PINNACLE WEST CAPITAL CORP'
+p92
+aS'Donald E. Brandt - President and COO  Pinnacle West Capital Corporation President and CEO  Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p93
+aNaNaNaNaNaNaNaS'Jack Davis - President and Chief Operating Officer PINNACLE WEST CAPITAL CORP'
+p94
+aS'Jack E. Davis - President and COO  Pinnacle West Capital Corporation CEO  Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p95
+aNaNaNaNaS'James R. Hatfield - Chief Financial Officer  Executive Vice President  Chief Financial Officer of Arizona Public Service Company and Executive Vice President of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p96
+aS'James R. Hatfield - Chief Financial Officer  Executive Vice President  Chief Financial Officer of Arizona Public Service Company and Executive Vice President of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p97
+aS'James R. Hatfield - Chief Financial Officer  Executive Vice President  Chief Financial Officer of Arizona Public Service Company and Executive Vice President of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p98
+aS'James R. Hatfield - Chief Financial Officer  Senior Vice President  Chief Financial Officer of Arizona Public Service Company and Senior Vice President of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p99
+aS'James R. Hatfield - Chief Financial Officer  Senior Vice President  Chief Financial Officer of Arizona Public Service Company and Senior Vice President of Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p100
+aNaS'James R. Hatfield - Sr. VP and CFO PINNACLE WEST CAPITAL CORP'
+p101
+aS'James R. Hatfield - Sr. VP and CFO PINNACLE WEST CAPITAL CORP'
+p102
+aNaNaNaS'Jeff Guldner PINNACLE WEST CAPITAL CORP'
+p103
+aS'Jeff Guldner - Senior Vice President  Customers and Regulation  Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p104
+aNaNaS'Jeff Guldner- SVP  Public Policy  APS PINNACLE WEST CAPITAL CORP'
+p105
+aS'Jeffrey B. Guldner - Senior Vice President of Customers and Regulation - Arizona Public Service Company PINNACLE WEST CAPITAL CORP'
+p106
+aS'Jeffrey B. Guldner - Vice President of Rates and Regulation - Aps  Chief Compliance Officer of Arizona Public Service Company and Vice President of Rates and Regulation PINNACLE WEST CAPITAL CORP'
+p107
+aS'Jim Hatfield - CFO PINNACLE WEST CAPITAL CORP'
+p108
+aS'Jim Hatfield - CFO PINNACLE WEST CAPITAL CORP'
+p109
+aS'Jim Hatfield - Chief Financial Officer PINNACLE WEST CAPITAL CORP'
+p110
+aNaNaNaNaNaNaS'Paul J. Mountain - Director of Investor Relations PINNACLE WEST CAPITAL CORP'
+p111
+aS'Paul J. Mountain - Director of Investor Relations PINNACLE WEST CAPITAL CORP'
+p112
+aS'Paul J. Mountain - Director of Investor Relations PINNACLE WEST CAPITAL CORP'
+p113
+aS'Paul Mountain - Director  IR PINNACLE WEST CAPITAL CORP'
+p114
+aS'Rebecca Hickman - Director  Investor Relations PINNACLE WEST CAPITAL CORP'
+p115
+aS'Rebecca Hickman - Director of Investor Relations PINNACLE WEST CAPITAL CORP'
+p116
+aS'Rebecca Hickman - Director of Investor Relations PINNACLE WEST CAPITAL CORP'
+p117
+a.
